@@ -7,9 +7,14 @@ Soil Moisture Data Dashboard visualizes soil moisture levels across geographic l
 - **Interactive Map Visualization**: View filtered data on an open-street map with color-coded moisture levels.
 - **Streamlined Data Access**: Efficiently reads and processes large HDF5 datasets with optimized data loading.
 
+[Download the dataset]([https://your-google-drive-link](https://drive.google.com/file/d/15GrVbmql9JkHT3BqTQv7frqM02n4VjYm/view?usp=sharing))
+
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/soil-moisture-dashboard.git
    cd soil-moisture-dashboard
+
+   
+
