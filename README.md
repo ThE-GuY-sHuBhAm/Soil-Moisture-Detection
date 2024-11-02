@@ -11,6 +11,13 @@ Soil Moisture Data Dashboard visualizes soil moisture levels across geographic l
 
 [Download the dataset](https://drive.google.com/file/d/15GrVbmql9JkHT3BqTQv7frqM02n4VjYm/view?usp=sharing)
 
+## Try it out
+
+You can test the model directly on [Hugging Face](https://huggingface.co/spaces/Shubham2004/Soil_Moisture_Detection). This model provides soil moisture data analysis based on geographic coordinates. 
+
+Click the link to explore!
+
+
 
 ## Installation
 
